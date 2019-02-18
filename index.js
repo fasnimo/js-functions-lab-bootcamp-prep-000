@@ -3,5 +3,6 @@ function happyHolidays(name) {
   console.log("Happy Holidays");
 }
 
-greet('John');
-greet('Mary');
+happyHolidaysTo(name) {
+  console.log("Happy Holidays" + John);
+}
