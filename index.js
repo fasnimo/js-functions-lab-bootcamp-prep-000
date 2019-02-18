@@ -1,16 +1,16 @@
 // write your code below!
-function happyHolidays(To, Countdown)) {
+function happyHolidays(To, Countdown) {
   console.log("Happy Holidays");
 }
 
-happyHolidays(To) {
+happyHolidays(To); {
   console.log("Happy Holidays" + 'John');
 }
 
-happyHolidays(To) {
+happyHolidays(To); {
   console.log("Happy Holidays" + 'Mary');
 }
 
-happyHolidays(Countdown) {
+happyHolidays(Countdown); {
   console.log("It's ${5} days until ${New Year}");
 }
