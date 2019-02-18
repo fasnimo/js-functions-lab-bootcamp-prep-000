@@ -7,7 +7,7 @@ happyHolidaysTo(name) {
 }
 
 happyHolidaysTo(holday, name); {
-  console.log("Happy Independence Day" + "John");
+  console.log('Independence Day', 'you');
 }
 
 happyHolidaysCountdown(holidays, days); {
