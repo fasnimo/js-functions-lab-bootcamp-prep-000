@@ -2,11 +2,11 @@
 function happyHolidays() {
   console.log("Happy Holidays!");
 }
-happyHolidaysTo(name {
-  console.log("Happy Holidays to, John");
+happyHolidaysTo("name") {
+  console.log("John");
 }
 
-happyHolidaysTo("Independence Day", "John"); {
+happyHolidaysTo("holiday", "name"); {
   console.log("Happy Independence Day" + "John");
 }
 
