@@ -4,3 +4,4 @@ function greet(name) {
 }
 
 greet('John');
+greet('Mary');
