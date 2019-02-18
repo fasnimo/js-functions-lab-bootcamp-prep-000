@@ -3,7 +3,7 @@ function happyHolidays(holidays) {
   return("Happy holidays!");
 }
 function happyHolidaysTo(holidays,name){
-  if (console.log("John"));
+  if (console.log("name"));
   else return("Independence Day, John!");
 }
 
