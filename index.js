@@ -2,3 +2,5 @@
 function greet() {
   console.log("Happy Holidays")
 }
+
+greet()
