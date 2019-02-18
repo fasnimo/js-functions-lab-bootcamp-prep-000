@@ -12,5 +12,5 @@ happyHolidays(To); {
 }
 
 happyHolidays(Countdown); {
-  console.log("It's ${5} days until ${New Year}");
+  console.log("It's ${five} days until ${New Year}");
 }
