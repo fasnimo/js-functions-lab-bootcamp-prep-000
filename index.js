@@ -7,7 +7,7 @@ happyHolidaysTo(name); {
   console.log("Happy Holidays" + "John");
 }
 
-happyHolidaysTo(); {
+happyHolidaysTo(Holiday,name); {
   console.log("Happy Holidays" + "Mary");
 }
 
