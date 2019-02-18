@@ -1,13 +1,13 @@
 // write your code below!
-function happyHolidays(name) {
+function happyHolidays() {
   console.log("Happy Holidays!");
 
 
-happyHolidaysTo(); {
+happyHolidaysTo(name); {
   console.log("Happy Holidays" + "John");
 }
 
-happyHolidaysTO(); {
+happyHolidaysTo(); {
   console.log("Happy Holidays" + "Mary");
 }
 
