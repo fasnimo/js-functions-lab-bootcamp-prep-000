@@ -1,6 +1,6 @@
 // write your code below!
-function greet() {
-  console.log("Happy Holidays");
+function greet(name) {
+  console.log("Happy Holidays", + name);
 }
 
 greet();
