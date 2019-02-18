@@ -3,15 +3,15 @@ function happyHolidays(To, Countdown) {
   console.log("Happy Holidays!");
 
 
-happyHolidays(To, Countdown); {
+happyHolidaysTo(); {
   console.log("Happy Holidays" + "John");
 }
 
-happyHolidays(To, Countdown); {
+happyHolidaysTO(); {
   console.log("Happy Holidays" + "Mary");
 }
 
-happyHolidays(To, Countdown); {
+happyHolidaysCountdown(); {
   console.log("It's ${five} days until ${New Year}");
 }
 
