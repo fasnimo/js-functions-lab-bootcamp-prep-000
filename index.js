@@ -2,7 +2,7 @@
 function happyHolidays(holidays) {
   console.log();
 }
-happyHolidaysTo(holidays,name) {
+happyHolidaysTo(name); {
   console.log("John");
 }
 
