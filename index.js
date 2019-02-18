@@ -3,11 +3,14 @@ function happyHolidays(holidays) {
   return("Happy holidays!");
 }
 function happyHolidaysTo(John){
-  if (console.log("name"));
-  else return("Independence Day, John!");
+   return("Happy holidays, John");
+}
+
+function happyHolidayTo(John){
+  return("Happy Independence Day, John!");
 }
 
  function HolidayCountdown(holidays,days) {
- return("Mother's Day" + "20!");
+ return("It's 20 days until Mothers Day");
 }
 
