@@ -1,5 +1,5 @@
 // write your code below!
-function happyHolidays(To, Countdown) {
+function happyHolidays(name) {
   console.log("Happy Holidays!");
 
 
