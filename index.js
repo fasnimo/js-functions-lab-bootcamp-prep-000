@@ -2,12 +2,12 @@
 function happyHolidays(holidays) {
   return("Happy holidays!");
 }
-function happyHolidaysTo(holidays,name){
+function happyHolidaysTo(John){
   if (console.log("name"));
   else return("Independence Day, John!");
 }
 
- function happyHolidaysCountdown(holidays,days) {
+ function HolidayCountdown(holidays,days) {
  return("Mother's Day" + "20!");
 }
 
