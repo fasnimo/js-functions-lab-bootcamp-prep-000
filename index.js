@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays(holidays) {
   console.log();
-}
+
 happyHolidaysTo(name); {
   console.log("John");
 }
@@ -14,3 +14,4 @@ happyHolidaysCountdown(holidays,days); {
   console.log ("Mother's Day", 20);
 }
 
+}
