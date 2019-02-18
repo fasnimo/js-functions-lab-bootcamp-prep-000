@@ -11,6 +11,6 @@ happyHolidaysTo(holday, name); {
 }
 
 happyHolidaysCountdown(holidays, days); {
-  console.log("It's ${five} days until ${New Year}");
+  console.log("Mother's Day", 20");
 }
 
