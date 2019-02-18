@@ -2,5 +2,4 @@
 
 var happyHolidays(string){
  console.log("Happy Holidays")
-  
-}
+  } return ("Happy Holidays")
