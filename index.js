@@ -10,7 +10,7 @@ happyHolidaysTo("holiday", "name"); {
   console.log("Happy Independence Day" + "John");
 }
 
-happyHolidaysCountdown("Mother's Day", 20); {
+happyHolidaysCountdown("holidays", "days"); {
   console.log("It's ${five} days until ${New Year}");
 }
 
