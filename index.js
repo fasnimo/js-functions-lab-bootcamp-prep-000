@@ -4,9 +4,9 @@ function happyHolidays(name) {
 }
 
 happyHolidaysTo(name) {
-  console.log("Happy Holidays" + John);
+  console.log("Happy Holidays" + 'John');
 }
 
 happyHolidaysTo(name) {
-  console.log("Happy Holidays" + Mary);
+  console.log("Happy Holidays" + 'Mary');
 }
