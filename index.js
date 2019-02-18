@@ -3,11 +3,11 @@ function happyHolidays() {
   console.log("Happy Holidays!");
 }
 happyHolidaysTo(name); {
-  console.log("Happy Holidays to, you");
+  console.log("Happy Holidays to, John");
 }
 
 happyHolidaysTo(holiday, name); {
-  console.log("Happy Holidays" + "Mary");
+  console.log("Happy Independence Day" + "John");
 }
 
 happyHolidaysCountdown(holiday, days); {
